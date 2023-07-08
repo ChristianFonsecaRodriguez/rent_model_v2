@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Trabajo/proyecto_modelo/mlruns/115692393325432621/9e89aa1be79d4dda95d2660e30c22b52/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '115692393325432621'
+lifecycle_stage: active
+run_id: 9e89aa1be79d4dda95d2660e30c22b52
+run_name: Session Initialized 8d14
+run_uuid: 9e89aa1be79d4dda95d2660e30c22b52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687663221328
+status: 1
+tags: []
+user_id: CHRISTIAN

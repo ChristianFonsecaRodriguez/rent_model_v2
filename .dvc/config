@@ -1,0 +1,5 @@
+[core]
+    no_scm = True
+    remote = remote
+['remote "remote"']
+    url = s3://data-model-001
